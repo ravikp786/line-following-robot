@@ -16,5 +16,5 @@ Autonomous ling following Robot written in C++ using Arduino IDE. This repositor
 - Carrier cart
 
 
-## Assemble the parts as shown in this [presentation](autonomous-robot.ppt)
+## Assemble the parts as shown in this [presentation](autonomous-robot.pptx)
 ## Detailed Report present [here](autonomous-robot-report.pdf)
