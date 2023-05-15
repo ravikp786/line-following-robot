@@ -17,3 +17,4 @@ Autonomous ling following Robot written in C++ using Arduino IDE. This repositor
 
 
 ## Assemble the parts as shown in this [presentation](autonomous-robot.ppt)
+## Detailed Report present [here](autonomous-robot-report.pdf)
